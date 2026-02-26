@@ -10,7 +10,8 @@
 .intro h1 {
   text-align: center;
   text-transform: uppercase;
-  font-size: 7vw;
+  font-size: 8vw;
+  font-weight: 800;
 }
 .demo-list {
   display: grid;
@@ -23,9 +24,10 @@
   display: block;
 }
 .demo-name {
-  font-size: 1rem;
+  font-size: 1.2rem;
   text-transform: uppercase;
   color: #000;
   text-align: center;
   margin-top: 16px;
+  font-weight: 600;
 }
